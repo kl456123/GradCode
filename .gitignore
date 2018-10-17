@@ -1,0 +1,11 @@
+# data
+ViewTools/*
+Data/*
+TFData/*
+ljpeg-ddsm/*
+*.jpg
+
+
+# temp file
+__pycache__/
+
